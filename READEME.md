@@ -11,6 +11,9 @@ npm install --save-dev @nomicfoundation/hardhat-toolbox
 # hardhat-deploy
 npm install --save-dev @nomicfoundation/hardhat-ethers ethers hardhat-deploy hardhat-deploy-ethers
 
+# hardhat-ignition-ethers
+npm install --save-dev @nomicfoundation/hardhat-ignition-ethers
+
 # test
 npm install --save-dev chai @types/node @types/mocha @types/chai
 
