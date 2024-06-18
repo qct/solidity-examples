@@ -11,6 +11,7 @@ const types = {
   ],
 };
 
+// Ref: https://www.quicknode.com/guides/ethereum-development/transactions/how-to-use-erc20-permit-approval
 async function main() {
   //   await network.provider.send("evm_setIntervalMining", [1000]);
   const [owner, spender] = await ethers.getSigners();
